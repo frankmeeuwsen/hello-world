@@ -1,7 +1,7 @@
-hello-world
+hello-world 2015
 ===========
 
-Mijn eerste Github uitprobeer repository. 
+Mijn eerste Github uitprobeer repository. Inclusief een branch om te zien hoe dat dit werkt
 
 ##Contactgegevens
 **Frank Meeuwsen**
