@@ -6,9 +6,10 @@ hello-world 2015
 Mijn eerste Github uitprobeer repository. Inclusief een branch om te zien hoe dat dit werkt
 
 ##Contactgegevens
+
 **Frank Meeuwsen**
 
 * [frank@incredibleadventure.nl](frank@incredibleadventure.nl)
 * [Web](http://incredibleadventure.nl)
 * [Twitter](http://www.twitter.com/frankmeeuwsen)
-* [Mastodon](https://mastodon.social/frankmeeuwsen)
+* [Mastodon](https://mastodon.social/@frankmeeuwsen)
